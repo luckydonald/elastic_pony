@@ -1,0 +1,4 @@
+-e git://github.com/ponyorm/pony.git@dfedd28d02330fb351dc019f4dd03134299c23ab#egg=pony
+
+elasticsearch #  Elasticsearch
+elasticsearch_dsl # so it feels python.
